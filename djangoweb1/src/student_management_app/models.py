@@ -66,6 +66,16 @@ class Attendance(models.Model):
     updated_at=models.DateTimeField(auto_now_add=True)
     objects = models.Manager()
 
+    #def __str__(self):
+    #    return [ self.id.__str__() ,
+    #             self.subject_id.__str__() ,
+    #             self.attendance_date.__str__() ,
+    #             self.created_at.__str__() ,
+    #             self.session_year_id.__str__() ,
+    #             self.updated_at.__str__()  ]
+
+
+
 class AttendanceReport(models.Model):
     id=models.AutoField(primary_key=True)
     student_id=models.ForeignKey(Students,on_delete=models.DO_NOTHING)
@@ -74,6 +84,14 @@ class AttendanceReport(models.Model):
     created_at=models.DateTimeField(auto_now_add=True)
     updated_at=models.DateTimeField(auto_now_add=True)
     objects=models.Manager()
+
+    #def __str__(self):
+    #    return [ self.id.__str__() ,
+    #             self.student_id.__str__() ,
+    #             self.attendance_id.__str__() ,
+    #             self.status.__str__() ,
+    #             self.created_at.__str__() ,
+    #             self.updated_at.__str__()  ]
 
 class LeaveReportStudent(models.Model):
     id=models.AutoField(primary_key=True)

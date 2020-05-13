@@ -48,7 +48,17 @@
           <a href="{{ staff_update_attendance }}" class="nav-link {% if request.path == staff_update_attendance %} active {% endif %}">
             <i class="nav-icon fas fa-th"></i>
             <p>
-              View Update Attendance
+               Update Attendance
+            </p>
+          </a>
+        </li>
+
+        <li class="nav-item">
+          {% url 'manage_attendance' as manage_attendance %}
+          <a href="{{ manage_attendance }}" class="nav-link {% if request.path == manage_attendance %} active {% endif %}">
+            <i class="nav-icon fas fa-th"></i>
+            <p>
+              View Attendance
             </p>
           </a>
         </li>

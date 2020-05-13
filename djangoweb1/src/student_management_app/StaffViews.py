@@ -1,5 +1,10 @@
 import json
+import csv
 
+from django.forms.formsets import formset_factory
+from django.utils.timezone import datetime
+from django.contrib.auth.decorators import login_required
+from django.contrib.auth.mixins import LoginRequiredMixin
 from django.contrib import messages
 from django.core import serializers
 from django.forms import model_to_dict
@@ -7,8 +12,7 @@ from django.http import HttpResponse, JsonResponse, HttpResponseRedirect
 from django.shortcuts import render
 from django.urls import reverse
 from django.views.decorators.csrf import csrf_exempt
-
-from student_management_app.models import Subjects, SessionYearModel, Students, Attendance, AttendanceReport
+from student_management_app.models import Subjects, SessionYearModel, Students, Attendance, AttendanceReport,Courses
 
 def staff_home(request):
     return render(request,"staff_template/staff_home_template.html")
@@ -108,3 +112,11 @@ def save_updateattendance_data(request):
         return HttpResponse("OK")
     except:
         return HttpResponse("ERR")
+
+def manage_attendance(request):
+    attendancereport=AttendanceReport.objects.all()
+    student         = Students.objects.all()
+    attendance      = Attendance.objects.all()
+    course          = Courses.objects.all()
+    subject         = Subjects.objects.all()
+    return render(request,"staff_template/manage_attendance.html",{"AttendanceReport": attendancereport,"Students":student,"Attendance":attendance,"Courses":course,"Subjects":subject})
