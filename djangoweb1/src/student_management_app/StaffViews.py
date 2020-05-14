@@ -1,5 +1,16 @@
 import json
 import csv
+import django
+from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+from matplotlib.figure import Figure
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+import io
+import matplotlib.pyplot as plt; plt.rcdefaults()
+# % matplotlib inline
+
 
 from django.forms.formsets import formset_factory
 from django.utils.timezone import datetime
@@ -120,3 +131,29 @@ def manage_attendance(request):
     course          = Courses.objects.all()
     subject         = Subjects.objects.all()
     return render(request,"staff_template/manage_attendance.html",{"AttendanceReport": attendancereport,"Students":student,"Attendance":attendance,"Courses":course,"Subjects":subject})
+
+
+def mplimage(request):
+    data = pd.read_csv('C:/Users/priya/Django-Project1/djangoweb1/src/student_management_app/Attendance-Dataset3.csv')
+    sns.countplot(x='Created At',data = data, hue='Subject ID' )
+    #sns.lmplot(x='total_bill',y='tip',data = tips)
+    # fig = Figure()
+    # canvas = FigureCanvas(fig)
+    # langs = ['C', 'C++', 'Java', 'Python', 'PHP']
+    # students = [101,17,21,90,56]
+    # #x,y = np.loadtxt('C:/Users/priya/Django-Project1/djangoweb1/src/student_management_app/Attendance-Dataset.csv',delimiter = ',',unpack = True)
+    # plt.bar(langs,students,align='center',alpha=0.5, label = 'Attendance')
+    # plt.xlabel('langs')
+    # plt.ylabel('students')
+    # #plt.title('sample')
+
+
+
+
+
+    buf = io.BytesIO()
+    plt.savefig(buf ,format='png')
+    # #plt.close(fig)
+    plt.savefig('C:/Users/priya/Django-Project1/djangoweb1/src/student_management_app/templates/staff_template/plot2.png')
+    response = HttpResponse(buf.getvalue(), content_type = 'image/png')
+    return response

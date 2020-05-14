@@ -1,0 +1,289 @@
+ID,Student ID,Attendance ID,Attendance Date,Course ID,Course Name,Subject ID,Subject Name,Staff ID,Status,Created At,Updated At,,,,,
+1,1,1,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 10:52 a.m.,May-10,2020, 10:52 a.m.
+2,2,1,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 10:52 a.m.,May-10,2020, 10:52 a.m.
+3,3,1,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 10:52 a.m.,May-10,2020, 10:52 a.m.
+4,4,1,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 10:52 a.m.,May-10,2020, 10:52 a.m.
+5,1,2,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 10:53 a.m.,May-10,2020, 10:53 a.m.
+6,2,2,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 10:53 a.m.,May-10,2020, 10:53 a.m.
+7,3,2,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 10:53 a.m.,May-10,2020, 10:53 a.m.
+8,4,2,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 10:53 a.m.,May-10,2020, 10:53 a.m.
+9,1,3,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:46 p.m.,May-10,2020, 3:46 p.m.
+10,2,3,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:46 p.m.,May-10,2020, 3:46 p.m.
+11,3,3,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:46 p.m.,May-10,2020, 3:46 p.m.
+12,4,3,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:46 p.m.,May-10,2020, 3:46 p.m.
+13,1,4,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:47 p.m.,May-10,2020, 3:47 p.m.
+14,2,4,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:47 p.m.,May-10,2020, 3:47 p.m.
+15,3,4,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:47 p.m.,May-10,2020, 3:47 p.m.
+16,4,4,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:47 p.m.,May-10,2020, 3:47 p.m.
+17,1,5,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:49 p.m.,May-10,2020, 3:49 p.m.
+18,2,5,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:49 p.m.,May-10,2020, 3:49 p.m.
+19,3,5,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:49 p.m.,May-10,2020, 3:49 p.m.
+20,4,5,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 3:49 p.m.,May-10,2020, 3:49 p.m.
+21,1,6,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:29 p.m.,May-10,2020, 4:29 p.m.
+22,2,6,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:29 p.m.,May-10,2020, 4:29 p.m.
+23,3,6,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:29 p.m.,May-10,2020, 4:29 p.m.
+24,4,6,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:29 p.m.,May-10,2020, 4:29 p.m.
+25,1,7,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:47 p.m.,May-10,2020, 4:47 p.m.
+26,2,7,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:47 p.m.,May-10,2020, 4:47 p.m.
+27,3,7,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:47 p.m.,May-10,2020, 4:47 p.m.
+28,4,7,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:47 p.m.,May-10,2020, 4:47 p.m.
+29,1,8,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:47 p.m.,May-10,2020, 4:47 p.m.
+30,2,8,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:47 p.m.,May-10,2020, 4:47 p.m.
+31,3,8,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:47 p.m.,May-10,2020, 4:47 p.m.
+32,4,8,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:47 p.m.,May-10,2020, 4:47 p.m.
+33,1,9,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:48 p.m.,May-10,2020, 4:48 p.m.
+34,2,9,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:48 p.m.,May-10,2020, 4:48 p.m.
+35,3,9,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:48 p.m.,May-10,2020, 4:48 p.m.
+36,4,9,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:48 p.m.,May-10,2020, 4:48 p.m.
+37,1,10,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:49 p.m.,May-10,2020, 4:49 p.m.
+38,2,10,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:49 p.m.,May-10,2020, 4:49 p.m.
+39,3,10,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:49 p.m.,May-10,2020, 4:49 p.m.
+40,4,10,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:49 p.m.,May-10,2020, 4:49 p.m.
+41,1,11,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:50 p.m.,May-10,2020, 4:50 p.m.
+42,2,11,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:50 p.m.,May-10,2020, 4:50 p.m.
+43,3,11,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:50 p.m.,May-10,2020, 4:50 p.m.
+44,4,11,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:50 p.m.,May-10,2020, 4:50 p.m.
+45,1,12,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:50 p.m.,May-10,2020, 4:50 p.m.
+46,2,12,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:50 p.m.,May-10,2020, 4:50 p.m.
+47,3,12,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:50 p.m.,May-10,2020, 4:50 p.m.
+48,4,12,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:50 p.m.,May-10,2020, 4:50 p.m.
+49,1,13,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:52 p.m.,May-10,2020, 4:52 p.m.
+50,1,14,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:52 p.m.,May-10,2020, 4:52 p.m.
+51,2,14,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:52 p.m.,May-10,2020, 4:52 p.m.
+52,2,13,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:52 p.m.,May-10,2020, 4:52 p.m.
+53,3,14,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:52 p.m.,May-10,2020, 4:52 p.m.
+54,3,13,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:52 p.m.,May-10,2020, 4:52 p.m.
+55,4,14,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:52 p.m.,May-10,2020, 4:52 p.m.
+56,4,13,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:52 p.m.,May-10,2020, 4:52 p.m.
+57,1,15,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:53 p.m.,May-10,2020, 4:53 p.m.
+58,2,15,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:53 p.m.,May-10,2020, 4:53 p.m.
+59,3,15,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:53 p.m.,May-10,2020, 4:53 p.m.
+60,4,15,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:53 p.m.,May-10,2020, 4:53 p.m.
+61,1,16,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:55 p.m.,May-10,2020, 4:55 p.m.
+62,2,16,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:55 p.m.,May-10,2020, 4:55 p.m.
+63,3,16,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:55 p.m.,May-10,2020, 4:55 p.m.
+64,4,16,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 4:55 p.m.,May-10,2020, 4:55 p.m.
+65,1,17,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:56 p.m.,May-10,2020, 4:56 p.m.
+66,2,17,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:56 p.m.,May-10,2020, 4:56 p.m.
+67,3,17,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:56 p.m.,May-10,2020, 4:56 p.m.
+68,4,17,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 4:56 p.m.,May-10,2020, 4:56 p.m.
+69,1,18,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:10 p.m.,May-10,2020, 5:10 p.m.
+70,2,18,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:10 p.m.,May-10,2020, 5:10 p.m.
+71,3,18,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:10 p.m.,May-10,2020, 5:10 p.m.
+72,4,18,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:10 p.m.,May-10,2020, 5:10 p.m.
+73,1,19,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:10 p.m.,May-10,2020, 5:10 p.m.
+74,2,19,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:10 p.m.,May-10,2020, 5:10 p.m.
+75,3,19,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:10 p.m.,May-10,2020, 5:10 p.m.
+76,4,19,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:10 p.m.,May-10,2020, 5:10 p.m.
+77,1,20,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:11 p.m.,May-10,2020, 5:11 p.m.
+78,2,20,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:11 p.m.,May-10,2020, 5:11 p.m.
+79,3,20,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:11 p.m.,May-10,2020, 5:11 p.m.
+80,4,20,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:11 p.m.,May-10,2020, 5:11 p.m.
+81,1,21,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:11 p.m.,May-10,2020, 5:11 p.m.
+82,2,21,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:11 p.m.,May-10,2020, 5:11 p.m.
+83,3,21,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:11 p.m.,May-10,2020, 5:11 p.m.
+84,4,21,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:11 p.m.,May-10,2020, 5:11 p.m.
+85,1,22,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:12 p.m.,May-10,2020, 5:12 p.m.
+86,2,22,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:12 p.m.,May-10,2020, 5:12 p.m.
+87,3,22,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:12 p.m.,May-10,2020, 5:12 p.m.
+88,4,22,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:12 p.m.,May-10,2020, 5:12 p.m.
+89,1,23,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:46 p.m.,May-10,2020, 5:46 p.m.
+90,2,23,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:46 p.m.,May-10,2020, 5:46 p.m.
+91,3,23,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 5:46 p.m.,May-10,2020, 5:46 p.m.
+92,4,23,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:46 p.m.,May-10,2020, 5:46 p.m.
+93,1,24,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:48 p.m.,May-10,2020, 5:48 p.m.
+94,2,24,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:48 p.m.,May-10,2020, 5:48 p.m.
+95,3,24,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:48 p.m.,May-10,2020, 5:48 p.m.
+96,4,24,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:48 p.m.,May-10,2020, 5:48 p.m.
+97,1,25,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:55 p.m.,May-10,2020, 5:55 p.m.
+98,2,25,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:55 p.m.,May-10,2020, 5:55 p.m.
+99,3,25,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:55 p.m.,May-10,2020, 5:55 p.m.
+100,4,25,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:55 p.m.,May-10,2020, 5:55 p.m.
+101,1,27,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:59 p.m.,May-10,2020, 5:59 p.m.
+102,2,27,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:59 p.m.,May-10,2020, 5:59 p.m.
+103,3,27,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:59 p.m.,May-10,2020, 5:59 p.m.
+104,4,27,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 5:59 p.m.,May-10,2020, 5:59 p.m.
+105,1,28,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6 p.m.,May-10,2020, 6 p.m.
+106,2,28,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6 p.m.,May-10,2020, 6 p.m.
+107,3,28,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6 p.m.,May-10,2020, 6 p.m.
+108,4,28,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6 p.m.,May-10,2020, 6 p.m.
+109,1,29,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:04 p.m.,May-10,2020, 6:04 p.m.
+110,2,29,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:04 p.m.,May-10,2020, 6:04 p.m.
+111,3,29,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:04 p.m.,May-10,2020, 6:04 p.m.
+112,4,29,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:04 p.m.,May-10,2020, 6:04 p.m.
+113,1,30,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:05 p.m.,May-10,2020, 6:05 p.m.
+114,2,30,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:05 p.m.,May-10,2020, 6:05 p.m.
+115,3,30,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:05 p.m.,May-10,2020, 6:05 p.m.
+116,4,30,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:05 p.m.,May-10,2020, 6:05 p.m.
+117,1,31,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:05 p.m.,May-10,2020, 6:05 p.m.
+118,2,31,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:05 p.m.,May-10,2020, 6:05 p.m.
+119,3,31,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:05 p.m.,May-10,2020, 6:05 p.m.
+120,4,31,May-10,2020,1,Python,1,Django,2,0,May-10,2020, 6:05 p.m.,May-10,2020, 6:05 p.m.
+121,1,32,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:15 p.m.,May-10,2020, 6:15 p.m.
+122,2,32,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:15 p.m.,May-10,2020, 6:15 p.m.
+123,3,32,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:15 p.m.,May-10,2020, 6:15 p.m.
+124,4,32,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:15 p.m.,May-10,2020, 6:15 p.m.
+125,1,33,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:16 p.m.,May-10,2020, 6:16 p.m.
+126,2,33,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:16 p.m.,May-10,2020, 6:16 p.m.
+127,3,33,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:16 p.m.,May-10,2020, 6:16 p.m.
+128,4,33,May-10,2020,1,Python,1,Django,2,1,May-10,2020, 6:16 p.m.,May-10,2020, 6:16 p.m.
+129,1,34,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:31 a.m.,May-11,2020, 10:31 a.m.
+130,2,34,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:31 a.m.,May-11,2020, 10:31 a.m.
+131,3,34,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:31 a.m.,May-11,2020, 10:31 a.m.
+132,4,34,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:31 a.m.,May-11,2020, 10:31 a.m.
+133,1,35,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:32 a.m.,May-11,2020, 10:32 a.m.
+134,2,35,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:32 a.m.,May-11,2020, 10:32 a.m.
+135,3,35,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:32 a.m.,May-11,2020, 10:32 a.m.
+136,4,35,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:32 a.m.,May-11,2020, 10:32 a.m.
+137,1,36,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:32 a.m.,May-11,2020, 10:32 a.m.
+138,2,36,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:32 a.m.,May-11,2020, 10:32 a.m.
+139,3,36,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:32 a.m.,May-11,2020, 10:32 a.m.
+140,4,36,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:32 a.m.,May-11,2020, 10:32 a.m.
+141,1,37,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:49 a.m.,May-11,2020, 10:49 a.m.
+142,1,38,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:49 a.m.,May-11,2020, 10:49 a.m.
+143,2,38,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:49 a.m.,May-11,2020, 10:49 a.m.
+144,2,37,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:49 a.m.,May-11,2020, 10:49 a.m.
+145,3,38,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:49 a.m.,May-11,2020, 10:49 a.m.
+146,4,38,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:49 a.m.,May-11,2020, 10:49 a.m.
+147,3,37,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:49 a.m.,May-11,2020, 10:49 a.m.
+148,4,37,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 10:49 a.m.,May-11,2020, 10:49 a.m.
+149,1,39,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:51 a.m.,May-11,2020, 10:51 a.m.
+150,2,39,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:51 a.m.,May-11,2020, 10:51 a.m.
+151,3,39,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:51 a.m.,May-11,2020, 10:51 a.m.
+152,4,39,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:51 a.m.,May-11,2020, 10:51 a.m.
+153,1,40,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:51 a.m.,May-11,2020, 10:51 a.m.
+154,2,40,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:51 a.m.,May-11,2020, 10:51 a.m.
+155,3,40,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:51 a.m.,May-11,2020, 10:51 a.m.
+156,4,40,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:51 a.m.,May-11,2020, 10:51 a.m.
+157,1,41,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:53 a.m.,May-11,2020, 10:53 a.m.
+158,2,41,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:53 a.m.,May-11,2020, 10:53 a.m.
+159,3,41,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:53 a.m.,May-11,2020, 10:53 a.m.
+160,4,41,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:53 a.m.,May-11,2020, 10:53 a.m.
+161,1,42,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:53 a.m.,May-11,2020, 10:53 a.m.
+162,2,42,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:53 a.m.,May-11,2020, 10:53 a.m.
+163,3,42,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:53 a.m.,May-11,2020, 10:53 a.m.
+164,4,42,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:53 a.m.,May-11,2020, 10:53 a.m.
+165,1,43,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:54 a.m.,May-11,2020, 10:54 a.m.
+166,2,43,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:54 a.m.,May-11,2020, 10:54 a.m.
+167,3,43,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:54 a.m.,May-11,2020, 10:54 a.m.
+168,4,43,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:54 a.m.,May-11,2020, 10:54 a.m.
+169,1,44,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:54 a.m.,May-11,2020, 10:54 a.m.
+170,2,44,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:54 a.m.,May-11,2020, 10:54 a.m.
+171,3,44,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:54 a.m.,May-11,2020, 10:54 a.m.
+172,4,44,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:54 a.m.,May-11,2020, 10:54 a.m.
+173,1,45,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:56 a.m.,May-11,2020, 10:56 a.m.
+174,2,45,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:56 a.m.,May-11,2020, 10:56 a.m.
+175,3,45,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:56 a.m.,May-11,2020, 10:56 a.m.
+176,4,45,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 10:56 a.m.,May-11,2020, 10:56 a.m.
+177,1,46,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:02 a.m.,May-11,2020, 11:02 a.m.
+178,2,46,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:02 a.m.,May-11,2020, 11:02 a.m.
+179,3,46,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:02 a.m.,May-11,2020, 11:02 a.m.
+180,4,46,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:02 a.m.,May-11,2020, 11:02 a.m.
+181,1,47,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:05 a.m.,May-11,2020, 11:05 a.m.
+182,2,47,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:05 a.m.,May-11,2020, 11:05 a.m.
+183,3,47,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:05 a.m.,May-11,2020, 11:05 a.m.
+184,4,47,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:05 a.m.,May-11,2020, 11:05 a.m.
+185,1,48,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:10 a.m.,May-11,2020, 11:10 a.m.
+186,2,48,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:10 a.m.,May-11,2020, 11:10 a.m.
+187,3,48,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:10 a.m.,May-11,2020, 11:10 a.m.
+188,4,48,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:10 a.m.,May-11,2020, 11:10 a.m.
+189,1,49,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:10 a.m.,May-11,2020, 11:10 a.m.
+190,2,49,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:10 a.m.,May-11,2020, 11:10 a.m.
+191,3,49,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:10 a.m.,May-11,2020, 11:10 a.m.
+192,4,49,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:10 a.m.,May-11,2020, 11:10 a.m.
+193,1,50,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:11 a.m.,May-11,2020, 11:11 a.m.
+194,2,50,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:11 a.m.,May-11,2020, 11:11 a.m.
+195,3,50,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:11 a.m.,May-11,2020, 11:11 a.m.
+196,4,50,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:11 a.m.,May-11,2020, 11:11 a.m.
+197,1,51,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:25 a.m.,May-11,2020, 11:25 a.m.
+198,2,51,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:25 a.m.,May-11,2020, 11:25 a.m.
+199,3,51,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:25 a.m.,May-11,2020, 11:25 a.m.
+200,4,51,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:25 a.m.,May-11,2020, 11:25 a.m.
+201,1,52,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:31 a.m.,May-11,2020, 11:31 a.m.
+202,2,52,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:31 a.m.,May-11,2020, 11:31 a.m.
+203,3,52,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:31 a.m.,May-11,2020, 11:31 a.m.
+204,4,52,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:31 a.m.,May-11,2020, 11:31 a.m.
+205,1,53,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:33 a.m.,May-11,2020, 11:33 a.m.
+206,2,53,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:33 a.m.,May-11,2020, 11:33 a.m.
+207,3,53,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:33 a.m.,May-11,2020, 11:33 a.m.
+208,4,53,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:33 a.m.,May-11,2020, 11:33 a.m.
+209,1,54,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:34 a.m.,May-11,2020, 11:34 a.m.
+210,2,54,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:34 a.m.,May-11,2020, 11:34 a.m.
+211,3,54,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:34 a.m.,May-11,2020, 11:34 a.m.
+212,4,54,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:34 a.m.,May-11,2020, 11:34 a.m.
+213,1,55,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:35 a.m.,May-11,2020, 11:35 a.m.
+214,2,55,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:35 a.m.,May-11,2020, 11:35 a.m.
+215,3,55,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:35 a.m.,May-11,2020, 11:35 a.m.
+216,4,55,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:35 a.m.,May-11,2020, 11:35 a.m.
+217,1,56,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:38 a.m.,May-11,2020, 11:38 a.m.
+218,2,56,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:38 a.m.,May-11,2020, 11:38 a.m.
+219,3,56,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:38 a.m.,May-11,2020, 11:38 a.m.
+220,4,56,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:38 a.m.,May-11,2020, 11:38 a.m.
+221,1,57,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:41 a.m.,May-11,2020, 11:41 a.m.
+222,2,57,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:41 a.m.,May-11,2020, 11:41 a.m.
+223,3,57,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:41 a.m.,May-11,2020, 11:41 a.m.
+224,4,57,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:41 a.m.,May-11,2020, 11:41 a.m.
+225,1,58,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:44 a.m.,May-11,2020, 11:44 a.m.
+226,2,58,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:44 a.m.,May-11,2020, 11:44 a.m.
+227,3,58,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:44 a.m.,May-11,2020, 11:44 a.m.
+228,4,58,May-11,2020,1,Python,1,Django,2,0,May-11,2020, 11:44 a.m.,May-11,2020, 11:44 a.m.
+229,1,59,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:50 a.m.,May-11,2020, 11:50 a.m.
+230,2,59,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:50 a.m.,May-11,2020, 11:50 a.m.
+231,3,59,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:50 a.m.,May-11,2020, 11:50 a.m.
+232,4,59,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 11:50 a.m.,May-11,2020, 11:50 a.m.
+233,1,60,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 12:58 p.m.,May-11,2020, 12:58 p.m.
+234,2,60,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 12:58 p.m.,May-11,2020, 12:58 p.m.
+235,3,60,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 12:58 p.m.,May-11,2020, 12:58 p.m.
+236,4,60,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 12:58 p.m.,May-11,2020, 12:58 p.m.
+237,1,61,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 12:59 p.m.,May-11,2020, 12:59 p.m.
+238,2,61,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 12:59 p.m.,May-11,2020, 12:59 p.m.
+239,3,61,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 12:59 p.m.,May-11,2020, 12:59 p.m.
+240,4,61,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 12:59 p.m.,May-11,2020, 12:59 p.m.
+241,1,62,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 1 p.m.,May-11,2020, 1 p.m.
+242,2,62,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 1 p.m.,May-11,2020, 1 p.m.
+243,3,62,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 1 p.m.,May-11,2020, 1 p.m.
+244,4,62,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 1 p.m.,May-11,2020, 1 p.m.
+245,1,63,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 1:11 p.m.,May-11,2020, 1:11 p.m.
+246,2,63,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 1:11 p.m.,May-11,2020, 1:11 p.m.
+247,3,63,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 1:11 p.m.,May-11,2020, 1:11 p.m.
+248,4,63,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 1:11 p.m.,May-11,2020, 1:11 p.m.
+249,1,64,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 2:31 p.m.,May-11,2020, 2:31 p.m.
+250,2,64,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 2:31 p.m.,May-11,2020, 2:31 p.m.
+251,3,64,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 2:31 p.m.,May-11,2020, 2:31 p.m.
+252,4,64,May-11,2020,1,Python,1,Django,2,1,May-11,2020, 2:31 p.m.,May-11,2020, 2:31 p.m.
+253,1,65,May-13,2020,1,Python,1,Django,2,0,May-13,2020, 9:53 a.m.,May-13,2020, 9:53 a.m.
+254,2,65,May-13,2020,1,Python,1,Django,2,0,May-13,2020, 9:53 a.m.,May-13,2020, 9:53 a.m.
+255,3,65,May-13,2020,1,Python,1,Django,2,0,May-13,2020, 9:53 a.m.,May-13,2020, 9:53 a.m.
+256,4,65,May-13,2020,1,Python,1,Django,2,0,May-13,2020, 9:53 a.m.,May-13,2020, 9:53 a.m.
+257,5,66,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:18 a.m.,May-13,2020, 10:18 a.m.
+258,6,66,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:18 a.m.,May-13,2020, 10:18 a.m.
+259,7,66,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:18 a.m.,May-13,2020, 10:18 a.m.
+260,8,66,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:18 a.m.,May-13,2020, 10:18 a.m.
+261,5,67,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:19 a.m.,May-13,2020, 10:19 a.m.
+262,6,67,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:19 a.m.,May-13,2020, 10:19 a.m.
+263,7,67,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:19 a.m.,May-13,2020, 10:19 a.m.
+264,8,67,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:19 a.m.,May-13,2020, 10:19 a.m.
+265,5,68,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+266,6,68,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+267,7,68,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+268,8,68,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+269,5,69,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+270,5,70,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+271,6,69,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+272,6,70,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+273,7,69,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+274,7,70,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+275,8,69,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+276,8,70,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+277,5,71,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+278,6,71,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+279,7,71,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+280,8,71,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:20 a.m.,May-13,2020, 10:20 a.m.
+281,5,72,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:21 a.m.,May-13,2020, 10:21 a.m.
+282,6,72,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:21 a.m.,May-13,2020, 10:21 a.m.
+283,7,72,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:21 a.m.,May-13,2020, 10:21 a.m.
+284,8,72,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:21 a.m.,May-13,2020, 10:21 a.m.
+285,5,73,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:21 a.m.,May-13,2020, 10:21 a.m.
+286,6,73,May-13,2020,2,Machine Learning,2,Mathematics,2,1,May-13,2020, 10:21 a.m.,May-13,2020, 10:21 a.m.
+287,7,73,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:21 a.m.,May-13,2020, 10:21 a.m.
+288,8,73,May-13,2020,2,Machine Learning,2,Mathematics,2,0,May-13,2020, 10:21 a.m.,May-13,2020, 10:21 a.m.
